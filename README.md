@@ -7,6 +7,6 @@ Após muito pesquisar sobre qual trilha de cursos em ciência de dados eu iria e
 - [Data Scientist in Python](https://www.dataquest.io/path/data-scientist/)
 
 ## Projetos:
-- [Projeto 1](https://github.com/marconasg/data-scientist-dataquest)
+- [Tentativas de fuga em helicópteros](Notebooks/helicopter-escapes.ipynb)
 
 ![](assets/bot-reps-dataquest.jpg)
