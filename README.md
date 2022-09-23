@@ -9,5 +9,6 @@ Após muito pesquisar sobre qual trilha de cursos em ciência de dados eu iria e
 ## Projetos:
 - [Tentativas de fuga em helicópteros](Notebooks/helicopter-escapes.ipynb)
 - [Perfis de aplicativos lucrativos na App Store e Google Play](Notebooks/profitable-app-profiles.ipynb)
+- [Explorando as postagens no site Hacker News](Notebooks/hacker-news-posts.ipynb)
 
 ![](assets/bot-reps-dataquest.jpg)
