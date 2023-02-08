@@ -13,5 +13,6 @@ Após muito pesquisar sobre qual trilha de cursos em ciência de dados eu iria e
 - [Explorando Vendas de Carros Usados no eBay](Notebooks/ebay-car-sales.ipynb)
 - [Encontrando Indicadores de Alto Tráfego na I-94](Notebooks/i-94-traffic.ipynb)
 - [Storytelling com Visualização de Dados sobre Taxas de Câmbio](Notebooks/euro-exchange-rates.ipynb)
+- [Pesquisas de Desligamento de Funcionários](Notebooks/employee-exit-surveys.ipynb)
 
 ![](assets/bot-reps-dataquest.jpg)
